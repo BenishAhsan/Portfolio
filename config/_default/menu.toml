@@ -15,10 +15,10 @@ url = "https://github.com/BenishAhsan"
 [social.params]
 icon = "brand-github"
 
-[[social]]
-identifier = "linkedin"
-name = "Linkedin"
-url = "https://www.linkedin.com/in/binash-ahsan-780762286/"
+# [[social]]
+# identifier = "linkedin"
+# name = "Linkedin"
+# url = "https://www.linkedin.com/in/binash-ahsan-780762286/"
 
-[social.params]
-icon = "brand-linkedin"
+# [social.params]
+# icon = "brand-linkedin"
