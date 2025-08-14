@@ -34,8 +34,8 @@ src = "img/me.jpg"
 [[widgets.homepage]]
 type = "search"
 
-[[widgets.homepage]]
-type = "archives"
+# [[widgets.homepage]]
+# type = "archives"
 
 [widgets.homepage.params]
 limit = 5
