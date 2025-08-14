@@ -21,14 +21,14 @@ enabled = true
 local = true
 src = "img/me.jpg"
 
-[article]
-headingAnchor = false
-math = false
-readingTime = true
+# [article]
+# headingAnchor = false
+# math = false
+# readingTime = true
 
-[article.license]
-enabled = true
-default = "Licensed under CC BY-NC-SA 4.0"
+# [article.license]
+# enabled = true
+# default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
 [[widgets.homepage]]
@@ -40,17 +40,17 @@ type = "archives"
 [widgets.homepage.params]
 limit = 5
 
-[[widgets.homepage]]
-type = "categories"
+# [[widgets.homepage]]
+# type = "categories"
 
-[widgets.homepage.params]
-limit = 10
+# [widgets.homepage.params]
+# limit = 10
 
-[[widgets.homepage]]
-type = "tag-cloud"
+# [[widgets.homepage]]
+# type = "tag-cloud"
 
-[widgets.homepage.params]
-limit = 10
+# [widgets.homepage.params]
+# limit = 10
 
 [[widgets.page]]
 type = "toc"
